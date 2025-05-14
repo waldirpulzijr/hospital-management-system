@@ -1,4 +1,4 @@
-class Initialize():
+class Initialize(): 
 
     def show_menu(self): 
         print('\n')
