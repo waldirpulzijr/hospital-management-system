@@ -25,7 +25,7 @@ class Initialize():
 
         print(50 * '-')
 
-        if (option == '1'):
+        if (option == '1'):  
             print('Pacientes:')
         elif (option == '2'):
             print('Consultas:')
