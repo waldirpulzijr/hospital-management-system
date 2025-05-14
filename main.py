@@ -1,6 +1,6 @@
 class Initialize():
 
-    def show_menu(self):
+    def show_menu(self): 
         print('\n')
 
         print(50 * '-')
